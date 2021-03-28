@@ -1,7 +1,7 @@
 # E-Alchemy
 #### General
 
- - Base folder name: freE-Learning
+ - Base folder name: E-Alchemy
  - Default admin login details:
 	 - Username: ishika
 	 - Password: 123456
